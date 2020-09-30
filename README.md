@@ -3,6 +3,7 @@
 [![Dependabot badge](https://flat.badgen.net/dependabot/wbkd/webpack-starter?icon=dependabot)](https://dependabot.com/)
 
 A lightweight foundation for your next webpack based frontend project.
+Build Generate by JS
 
 
 ### Installation
